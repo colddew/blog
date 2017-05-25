@@ -16,8 +16,10 @@
 
 <link rel="stylesheet" type="text/css" href="{{ url_for(theme.css) }}/main.css?v={{ theme.version }}"/>
 
-{% if config.description %}
-    <meta name="description" content="{{ config.description }}" />
+{% if page.desc %}
+    <meta name="description" content="{{ page.desc }}" />
+{% elif theme.desc %}
+    <meta name="description" content="{{ theme.desc }}" />
 {% endif %}
 
 {% if page.tags and page.tags.length %}

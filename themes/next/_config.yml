@@ -63,3 +63,8 @@ images: images
 # Theme version
 version: 0.4.2
 
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml

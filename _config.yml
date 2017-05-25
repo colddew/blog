@@ -5,14 +5,14 @@
 # Site
 title: colddew's notes
 subtitle: freelancer
-description:
+description: about succulent, geek and life
 author: colddew
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://colddew.info
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
