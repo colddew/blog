@@ -22,8 +22,8 @@
     <meta name="description" content="{{ theme.desc }}" />
 {% endif %}
 
-{% if page.tags and page.tags.length %}
-  <meta name="keywords" content="{% for tag in page.tags %}{{ tag.name }},{% endfor %}" />
+{% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}" />
 {% elif theme.keywords %}
   <meta name="keywords" content="{{ theme.keywords }}" />
 {% endif %}

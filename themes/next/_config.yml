@@ -9,7 +9,7 @@ menu:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "colddew,freelancer,succulent"
+keywords: "colddew,freelancer,succulent,geek"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -68,3 +68,5 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+google_site_verification: DrkcnUxDk-jp9CxJHhiRUNLLzPc8aKW8Oy8FtlFESE8
