@@ -3,7 +3,7 @@ title: Startup技术架构
 date: 2017-06-09 01:19:05
 updated: 2017-06-09 01:19:05
 desc: 低头做事，抬头看路。
-keywords: Startup技术架构
+keywords: 技术架构, Startup, Startup技术架构
 categories: 技术
 tags: [Startup, 技术架构]
 ---
