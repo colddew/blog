@@ -8,7 +8,7 @@ categories: 技术
 tags: [Startup, 技术架构]
 ---
 
-![startup](/images/startup-architecture.jpg)
+![startup-architecture](/images/startup-architecture.jpg)
 
 「低头做事，抬头看路。」如果说从不需要番茄钟可以连续专注地工作若干个小时不会被任何打断说明你很有耐心，那么时常抬头看路才更能体现你的大局观。
 
