@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://colddew.info/sitemap.xml
-Sitemap: http://colddew.info/baidusitemap.xml
+Sitemap: http://colddew.github.io/sitemap.xml
+Sitemap: http://colddew.github.io/baidusitemap.xml
