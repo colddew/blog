@@ -71,7 +71,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/colddew/colddew.github.io.git
+  repo: git@github.com:colddew/colddew.github.io.git
 
 avatar: https://avatars3.githubusercontent.com/u/6032545?v=3&s=460
 since: 2015
